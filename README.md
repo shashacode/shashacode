@@ -44,5 +44,4 @@
 ---
 
 ### :writing_hand: Blog Posts :
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+[![Hashnode Badge](https://img.shields.io/badge/-Hashnode-black?style=flat&logo=Hashnode&logoColor=white)](https://hashnode.com/@shasha-writes)
