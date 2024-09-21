@@ -7,6 +7,9 @@
     <a href="https://twitter.com/flora_oladipupo">
       <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
     </a>
+    <a href="(https://t.co/TxMjnE8kqw)">
+      <img src="https://img.shields.io/badge/linktree-blue?style=for-the-badge&logo=linktree&logoColor=white" alt="Linktree Badge"/>
+    </a>
   </div>
   <img src="https://komarev.com/ghpvc/?username=shashacode&style=flat-square&color=blue" alt=""/>
 </div>
@@ -16,12 +19,12 @@
 
 
 - 🔭 I'm a Data scientist and a technical writer
-- 🌱 I’m currently learning how to deploy machine learning models
+- 🌱 I’m currently learning how to deploy machine-learning models
 - 👯 I’m looking to collaborate on projects that are A.I related 
-- 🧑‍🏫 I enjoy teaching others tech related topics
+- 🧑‍🏫 I enjoy teaching others tech-related topics
 - 🤔 I’m looking for help with Deep Learning
 - 💬 Ask me about Python mainly 
-- 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/flora-oladipupo) [![Twitter Badge](https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/flora_oladipupo)
+- 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/flora-oladipupo) [![Twitter Badge](https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/flora_oladipupo) [![Linktree Badge](https://img.shields.io/badge/linktree-blue?style=for-the-badge&logo=linktree&logoColor=white)](https://t.co/TxMjnE8kqw)
 - ⚡ Fun fact: Adventurous, I have a flare for languages
 
 ---
@@ -51,3 +54,5 @@
 
 ### :writing_hand: Blog Posts :
 [![Hashnode Badge](https://img.shields.io/badge/-Hashnode-black?style=flat&logo=Hashnode&logoColor=white)](https://hashnode.com/@shasha-writes)
+[![Medium Badge](https://img.shields.io/badge/-Medium-black?style=flat&logo=Medium&logoColor=white)](https://medium.com/@floraoladipupo)
+[![Microsoft Badge](https://img.shields.io/badge/-Microsoft-black?style=flat&logo=Microsoft&logoColor=white)](https://techcommunity.microsoft.com/t5/educator-developer-blog/how-to-scrape-twitter-data-for-sentiment-analysis-with-python/ba-p/3593365?wt.mc_id=studentamb_130365)
