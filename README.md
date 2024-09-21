@@ -18,14 +18,12 @@
 ## About me:
 
 
-- 🔭 I'm a Data scientist and a technical writer
-- 🌱 I’m currently learning how to deploy machine-learning models
+- 🔭 I'm a Data scientist, AI Researcher and a Technical writer
 - 👯 I’m looking to collaborate on projects that are A.I related 
 - 🧑‍🏫 I enjoy teaching others tech-related topics
-- 🤔 I’m looking for help with Deep Learning
-- 💬 Ask me about Python mainly 
+- 💬 Ask me about Python, Machine Learning and Data Analytical tools
 - 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/flora-oladipupo) [![Twitter Badge](https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/flora_oladipupo) [![Linktree Badge](https://img.shields.io/badge/linktree-blue?style=for-the-badge&logo=linktree&logoColor=white)](https://t.co/TxMjnE8kqw)
-- ⚡ Fun fact: Adventurous, I have a flare for languages
+- ⚡ Fun fact: Adventurous, I like Nature and Biology
 
 ---
  ## 🧰: My stack
