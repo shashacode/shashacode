@@ -18,7 +18,7 @@
 ## About me:
 
 
-- 🔭 I'm a Data scientist, AI Researcher and a Technical writer
+- 🔭 I'm a Data scientist, AI Researcher/Engineer and a Technical writer
 - 👯 I’m looking to collaborate on projects that are A.I related 
 - 🧑‍🏫 I enjoy teaching others tech-related topics
 - 💬 Ask me about Python, Machine Learning and Data Analytical tools
