@@ -7,8 +7,11 @@
     <a href="https://twitter.com/flora_oladipupo">
       <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
     </a>
-    <a href="(https://t.co/TxMjnE8kqw)">
+    <a href="https://linktr.ee/flora_oladipupo">
       <img src="https://img.shields.io/badge/linktree-blue?style=for-the-badge&logo=linktree&logoColor=white" alt="Linktree Badge"/>
+    </a>
+    <a href="https://www.floraportfolio.tagecosystemai.com/">
+      <img src="https://img.shields.io/badge/Portfolio-blue?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio Badge"/>
     </a>
   </div>
   <img src="https://komarev.com/ghpvc/?username=shashacode&style=flat-square&color=blue" alt=""/>
@@ -22,7 +25,7 @@
 - 👯 I’m looking to collaborate on projects that are A.I related 
 - 🧑‍🏫 I enjoy teaching others tech-related topics
 - 💬 Ask me about Python, Machine Learning and Data Analytical tools
-- 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/flora-oladipupo) [![Twitter Badge](https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/flora_oladipupo) [![Linktree Badge](https://img.shields.io/badge/linktree-blue?style=for-the-badge&logo=linktree&logoColor=white)](https://t.co/TxMjnE8kqw)
+- 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/flora-oladipupo) [![Twitter Badge](https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/flora_oladipupo) [![Linktree Badge](https://img.shields.io/badge/linktree-blue?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/flora_oladipupo) [![Portfolio Badge](https://img.shields.io/badge/Portfolio-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.floraportfolio.tagecosystemai.com/)
 - ⚡ Fun fact: Adventurous, I like Nature and Biology
 
 ---
